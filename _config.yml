@@ -1,4 +1,4 @@
-typography_spectrum: 0.4068931227084249
+typography_spectrum: 0.2712910557165742
 color:
   brandStrength: 0.3849970337469131
   lightness: 0.562901064986363
@@ -10,7 +10,7 @@ color:
     - '#E2D4C7'
     - '#22211D'
     - '#C9A750'
-layout_spectrum: 0.5184385862667114
+layout_spectrum: 0.8651408362202346
 name: Patrick Ozmin
 title: New Projext
 description: here we go
