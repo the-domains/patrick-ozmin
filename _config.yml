@@ -1,16 +1,16 @@
-typography_spectrum: 0.2209559860639274
+typography_spectrum: 0.4068931227084249
 color:
-  brandStrength: 0.6925377494189888
-  lightness: 0.47405318007804453
-  saturation: 0.21827417518943548
-  rhythmicContrast: 0.3892177741508931
+  brandStrength: 0.3849970337469131
+  lightness: 0.562901064986363
+  saturation: 0.1339339658152312
+  rhythmicContrast: 0.8477167983073741
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-layout_spectrum: 0.04848450794816017
+    - '#4D6684'
+    - '#96969E'
+    - '#E2D4C7'
+    - '#22211D'
+    - '#C9A750'
+layout_spectrum: 0.5184385862667114
 name: Patrick Ozmin
 title: New Projext
 description: here we go
