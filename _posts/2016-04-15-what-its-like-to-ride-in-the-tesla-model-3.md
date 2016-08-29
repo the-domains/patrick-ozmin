@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-11T11:35:18.258Z'
+datePublished: '2016-08-28T06:18:53.545Z'
 sourcePath: _posts/2016-04-15-what-its-like-to-ride-in-the-tesla-model-3.md
 inFeed: true
 isBasedOnUrl: 'http://mashable.com/2016/04/01/tesla-model-3-first-ride/#GmuWjVf0GZqo'
@@ -18,17 +18,13 @@ keywords:
   - '000'
 related: []
 author:
-  - name: ''
+  - name: Patrick Ozmin
     url: ''
 via: {}
-dateModified: '2016-08-11T11:35:17.374Z'
+dateModified: '2016-08-28T06:18:52.504Z'
 title: 'Eastern Elevation, vertical and horizontal dimish '
 app_links: []
-publisher:
-  name: Mashable
-  domain: mashable.com
-  url: 'http://mashable.com'
-  favicon: 'http://mashable.com/favicon.ico?v=m2Pmw8zNwl'
+publisher: {}
 description: Simple render study showing proposed facade order proportions
 inLanguage: en
 inNav: false
@@ -37,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7efcba86-58c6-45fd-8d70-d957b6b9e649.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c0148f8-e581-4902-a116-d00a1079a319.jpg)
